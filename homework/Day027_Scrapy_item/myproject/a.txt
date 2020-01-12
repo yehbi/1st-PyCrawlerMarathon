@@ -1,0 +1,22 @@
+hello
+[<Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>, <Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>, <Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>]
+hello
+[<Selector xpath="descendant-or-self::span[@class = 'article-meta-value']" data='<span class="article-meta-value">haha...'>]
+hello
+[<Selector xpath="descendant-or-self::span[@class = 'article-meta-value']/text()" data='hahaccu (靠臉吃飯的小魯)'>]
+hello
+[<Selector xpath="descendant-or-self::span[@class = 'article-meta-value']/text()" data='hahaccu (靠臉吃飯的小魯)'>]
+hello
+hahaccu (靠臉吃飯的小魯)
+hello
+hahaccu (靠臉吃飯的小魯)
+hello
+hahaccu (靠臉吃飯的小魯)
+[問卦] 請家人吃飯好店推薦
+Wed May 15 21:59:37 2019
+hello
+[<Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>, <Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>, <Selector xpath="descendant-or-self::div[@class = 'article-metaline']" data='<div class="article-metaline"><span c...'>]
+hahaccu (靠臉吃飯的小魯)
+[問卦] 請家人吃飯好店推薦
+Wed May 15 21:59:37 2019
+hello

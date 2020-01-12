@@ -1,0 +1,21 @@
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Stock-20200108T16_48_20.json
+Name: Stock
+Name: Gossiping
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Gossiping-20200108T16_49_58.json
+Name: Gossiping
+Name: Stock
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Stock.json
+Name Stock
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Stock-20200108T16_54_55.json
+Name Gossiping
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Gossiping-20200108T16_54_55.json
+Name Stock
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Stock-20200108T16_55_17.json
+Name Gossiping
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Gossiping-20200108T16_55_17.json
+open_spider Gossiping
+open_spider Stock
+Name Gossiping
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Gossiping-20200108T17_05_55.json
+Name Stock
+Save result at D:\GitHub\1st-PyCrawlerMarathon\homework\Day029_Scrapy_PTT\Day029_Scrapy_PTT\myproject\crawled_data\Stock-20200108T17_05_57.json
